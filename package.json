@@ -55,7 +55,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/RaptureCore/rapturecore-p2p.git"
+    "url": "https://github.com/RaptureCore/bitcore-p2p-rapture.git"
   },
   "dependencies": {
     "bitcore-lib-rapture": "^0.15.2",
@@ -64,7 +64,7 @@
     "socks5-client": "^0.3.6"
   },
   "devDependencies": {
-    "bitcore-build-rapture":,
+    "bitcore-build-rapture": "^0.9.0",
     "brfs": "^1.2.0",
     "chai": "~1.10.0",
     "gulp": "^3.8.10",
